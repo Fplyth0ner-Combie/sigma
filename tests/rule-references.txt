@@ -3526,3 +3526,14 @@ https://www.virustotal.com/gui/file/39102fb7bb6a74a9c8cb6d46419f9015b381199ea852
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc742107(v=ws.11)
 https://www.virustotal.com/gui/file/483fafc64a2b84197e1ef6a3f51e443f84dc5742602e08b9e8ec6ad690b34ed0/behavior
 https://www.rnbo.gov.ua/files/2023_YEAR/CYBERCENTER/november/APT29%20attacks%20Embassies%20using%20CVE-2023-38831%20-%20report%20en.pdf
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-347a
+https://tria.ge/231212-r1bpgaefar/behavioral2
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/security/a1/sec-a1-cr-book/sec-a1-cr-book_chapter_0111.html
+https://github.com/nasbench/Misc-Research/blob/b20da2336de0f342d31ef4794959d28c8d3ba5ba/ETW/Microsoft-Windows-Kernel-General.md
+https://www.virustotal.com/gui/file/03b71eaceadea05bc0eea5cddecaa05f245126d6b16cfcd0f3ba0442ac58dab3/behavior
+https://unit42.paloaltonetworks.com/chromeloader-malware/
+https://github.com/projectHULK/AD_Recon/blob/dde2daba9b3393a9388cbebda87068972cc0bd3b/SecurityAssessment.ps1#L2699
+https://twitter.com/bohops/status/1740022869198037480
+https://twitter.com/ReneFreingruber/status/1172244989335810049
+https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
+https://www.socinvestigation.com/most-common-windows-event-ids-to-hunt-mind-map/
