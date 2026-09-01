@@ -484,6 +484,7 @@ https://docs.aws.amazon.com/vm-import/latest/userguide/vmexport.html#export-inst
 https://docs.djangoproject.com/en/1.11/ref/exceptions/
 https://docs.djangoproject.com/en/1.11/topics/logging/#django-security
 https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/328136827/config-user-group
+https://docs.fortinet.com/document/fortigate/7.6.4/cli-reference/333889629/config-firewall-policy
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/398/event
 https://docs.fortinet.com/document/fortigate/7.6.4/fortios-log-message-reference/44546/44546-logid-event-config-attr
 https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners#about-self-hosted-runners
@@ -760,6 +761,7 @@ https://evasions.checkpoint.com/techniques/macos.html
 https://f5.pm/go-59627.html
 https://fabian-voith.de/2020/06/25/sysmon-v11-1-reads-alternate-data-streams/
 https://fatrodzianko.com/2020/02/15/dll-side-loading-appverif-exe/
+https://feeds.alphasoc.net/bad-etlds.txt
 https://fieldeffect.com/blog/grixba-play-ransomware-impersonates-sentinelone
 https://findingbad.blogspot.de/2017/01/hunting-what-does-it-look-like.html
 https://firewalld.org/documentation/man-pages/firewall-cmd.html
@@ -1158,6 +1160,7 @@ https://github.com/nasbench/EVTX-ETW-Resources/blob/45fd5be71a51aa518b1b36d4e1f3
 https://github.com/nasbench/EVTX-ETW-Resources/blob/7a806a148b3d9d381193d4a80356016e6e8b1ee8/ETWEventsList/CSV/Windows11/22H2/W11_22H2_Pro_20220920_22621.382/Providers/Microsoft-Windows-AppXDeployment-Server.csv
 https://github.com/nasbench/EVTX-ETW-Resources/blob/7a806a148b3d9d381193d4a80356016e6e8b1ee8/ETWProvidersManifests/Windows11/22H2/W11_22H2_Pro_20221220_22621.963/WEPExplorer/LsaSrv.xml
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1803/W10_1803_Pro_19700101_17134.1/WEPExplorer/Application%20Popup.xml#L36
+https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/1903/W10_1903_Pro_20200714_18362.959/WEPExplorer/Microsoft-Windows-WindowsUpdateClient.xml
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows10/22H2/W10_22H2_Pro_20230321_19045.2728/WEPExplorer/LsaSrv.xml
 https://github.com/nasbench/EVTX-ETW-Resources/blob/f1b010ce0ee1b71e3024180de1a3e67f99701fe4/ETWProvidersManifests/Windows11/22H2/W11_22H2_Pro_20221220_22621.963/WEPExplorer/Microsoft-Windows-MsiServer.xml
 https://github.com/nasbench/Misc-Research/blob/8ee690e43a379cbce8c9d61107442c36bd9be3d3/Other/Undocumented-Flags-Sdbinst.md
@@ -1726,6 +1729,7 @@ https://github.security.telekom.com/2023/08/darkgate-loader.html
 https://githubmemory.com/repo/FunctFan/JNDIExploit
 https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.html
 https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-cluster-of-groups-united-by-common-techniques
+https://globetech.biz/index.php/2023/05/19/evading-edr-by-dll-sideloading-in-csharp/
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
@@ -1825,6 +1829,7 @@ https://jsecurity101.medium.com/bypassing-access-mask-auditing-strategies-480fb6
 https://jstnk9.github.io/jstnk9/research/GobRAT-Malware/
 https://jstnk9.github.io/jstnk9/research/InstallScreenSaver-SCR-files
 https://jstnk9.github.io/jstnk9/research/Jlaive-Antivirus-Evasion-Tool
+https://juggernaut-sec.com/capabilities/#cap_setuid
 https://kb.acronis.com/content/60892
 https://kb.cert.org/vuls/id/843464
 https://kb.eventtracker.com/evtpass/evtpages/EventId_6004_Microsoft-Windows-DNS-Server-Service_65410.asp
@@ -1836,6 +1841,7 @@ https://krebsonsecurity.com/2018/06/bad-men-at-work-please-dont-click/
 https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/
 https://kubernetes.io/docs/concepts/workloads/controllers/job/
 https://kubernetes.io/docs/reference/access-authn-authz/rbac/
+https://kubernetes.io/docs/reference/config-api/apiserver-audit.v1/
 https://kubernetes.io/docs/reference/kubernetes-api/authorization-resources/cluster-role-v1/#ClusterRole
 https://kubernetes.io/docs/tasks/manage-kubernetes-objects/update-api-object-kubectl-patch
 https://lab52.io/blog/2344-2/
@@ -2099,6 +2105,7 @@ https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/reagentc-
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
 https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell
 https://learn.microsoft.com/en-us/windows-server/administration/server-core/server-core-sconfig#powershell-is-the-default-shell-on-server-core
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/assoc
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/certutil
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chcp
 https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/clip
@@ -2211,6 +2218,7 @@ https://linuxhint.com/uninstall-debian-packages/
 https://linuxhint.com/uninstall_yum_package/
 https://linuxhint.com/view-tomcat-logs-windows/
 https://linuxize.com/post/how-to-delete-group-in-linux/
+https://localtonet.com/documents/supported-tunnels
 https://lolbas-project.github.io
 https://lolbas-project.github.io/lolbas/Binaries/AppInstaller/
 https://lolbas-project.github.io/lolbas/Binaries/Aspnet_Compiler/
@@ -2794,6 +2802,7 @@ https://ss64.com/osx/dscl.html
 https://ss64.com/osx/dseditgroup.html
 https://ss64.com/osx/dsenableroot.html
 https://ss64.com/osx/osacompile.html
+https://ss64.com/osx/sw_vers.html
 https://ss64.com/osx/sysadminctl.html
 https://ss64.com/ps/foreach-object.html
 https://ssd-disclosure.com/ssd-advisory-common-log-file-system-clfs-driver-pe/
@@ -3480,6 +3489,7 @@ https://web.archive.org/web/20221026202428/https://gist.github.com/code-scrap/d7
 https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://web.archive.org/web/20230329154538/https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html
 https://web.archive.org/web/20230329155141/https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
 https://web.archive.org/web/20230329171218/https://blog.menasec.net/2019/02/threat-hunting-3-detecting-psexec.html
@@ -3795,6 +3805,7 @@ https://www.ired.team/offensive-security/credential-access-and-credential-dumpin
 https://www.ired.team/offensive-security/defense-evasion/parent-process-id-ppid-spoofing
 https://www.ired.team/offensive-security/lateral-movement/t1076-rdp-hijacking-for-lateral-movement
 https://www.ired.team/offensive-security/persistence/t1128-netsh-helper-dll
+https://www.joesandbox.com/analysis/1605063/0/html
 https://www.joesandbox.com/analysis/411752/0/html#7048BB9A06B8F2DD9D24C77F389D7B2B58D2
 https://www.joesandbox.com/analysis/443736/0/html
 https://www.joesandbox.com/analysis/465533/0/html
@@ -3814,6 +3825,7 @@ https://www.lexjansen.com/sesug/1993/SESUG93035.pdf
 https://www.linkedin.com/feed/update/urn:li:activity:7047435754834198529/
 https://www.linkedin.com/feed/update/urn:li:activity:7282295814792605698/
 https://www.linkedin.com/posts/kleiton-kurti_github-kleiton0x00redditc2-abusing-reddit-activity-7009939662462984192-5DbI/?originalSubdomain=al
+https://www.linkedin.com/posts/mauricefielenbach_livingofftheland-redteam-persistence-activity-7344801774182051843-TE00/
 https://www.linkedin.com/pulse/exploit-available-dangerous-ms-office-rce-vuln-called-thebenygreen-
 https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
 https://www.linkedin.com/pulse/outlook-backdoor-using-vba-samir-b-/
@@ -3825,6 +3837,7 @@ https://www.logpoint.com/en/blog/detecting-zerologon-vulnerability-in-logpoint/
 https://www.logpoint.com/en/blog/shenanigans-of-scheduled-tasks/
 https://www.loobins.io/binaries/hdiutil/
 https://www.loobins.io/binaries/launchctl/
+https://www.loobins.io/binaries/pbpaste/
 https://www.loobins.io/binaries/sysctl/#
 https://www.loobins.io/binaries/tmutil/
 https://www.lunasec.io/docs/blog/log4j-zero-day/
@@ -4105,6 +4118,7 @@ https://www.trendmicro.com/en_us/research/23/h/an-overview-of-the-new-rhysida-ra
 https://www.trendmicro.com/en_us/research/24/b/threat-actor-groups-including-black-basta-are-exploiting-recent-.html
 https://www.trendmicro.com/en_us/research/24/c/cve-2024-21412--darkgate-operators-exploit-microsoft-windows-sma.html
 https://www.trendmicro.com/en_us/research/25/c/socgholishs-intrusion-techniques-facilitate-distribution-of-rans.html
+https://www.trendmicro.com/en_us/research/25/i/an-mdr-analysis-of-the-amos-stealer-campaign.html
 https://www.trendmicro.com/en_za/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
 https://www.trendmicro.com/pl_pl/research/20/i/the-evolution-of-malicious-shell-scripts.html
 https://www.trendmicro.com/vinfo/hk-en/security/news/cybercrime-and-digital-threats/malicious-spam-campaign-uses-iso-image-files-to-deliver-lokibot-and-nanocore
@@ -4220,6 +4234,7 @@ https://www.virustotal.com/gui/file/b4b1fc65f87b3dcfa35e2dbe8e0a34ad9d8a400bec33
 https://www.virustotal.com/gui/file/b6e8910fb9b3bb1fcddefd35ff0ed8624930d30d6977e11808c8330415685a62
 https://www.virustotal.com/gui/file/b8702acf32fd651af9f809ed42d15135f842788cd98d81a8e1b154ee2a2b76a2/detection
 https://www.virustotal.com/gui/file/ba88ca45589fae0139a40ca27738a8fc2dfbe1be5a64a9558f4e0f52b35c5add
+https://www.virustotal.com/gui/file/bc43e925d7b4b74319f6e74e836a96f1997ba404e14ac566cf12a21e9da463db/behavior
 https://www.virustotal.com/gui/file/bd07fb1e9b4768e7202de6cc454c78c6891270af02085c51fce5539db1386c3f/behavior
 https://www.virustotal.com/gui/file/bd1d52289203866645e556e2766a21d2275877fbafa056a76fe0cf884b7f8819/detection
 https://www.virustotal.com/gui/file/beddf70a7bab805f0c0b69ac0989db6755949f9f68525c08cb874988353f78a9/content
